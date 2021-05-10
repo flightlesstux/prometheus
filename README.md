@@ -1,4 +1,4 @@
-## PRometheus Automation
+## Prometheus Automation
 I need to install Prometheus latest version with automatically. I decided to turn the installation steps into bash script. 
 
 # Information
